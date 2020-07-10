@@ -1,4 +1,9 @@
-### Hi there 👋
+### (Literally) Fabian Lindgren
+
+c# / javascript
+
+mainly working in private repos, currently on SajberSim & [SaltBot](https://discord.bots.gg/bots/539453930313351168)
+
 
 <!--
 **LiterallyFabian/LiterallyFabian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
