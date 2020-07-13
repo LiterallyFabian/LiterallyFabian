@@ -6,4 +6,5 @@ Mainly working in private repos, current focusing on the visual novel engine Saj
 
 ## Contact
 Discord: [Fabian#1540](https://discordapp.com/users/211521218896068609)
+
 Email: lindgrenfabian@gmail.com
