@@ -1,6 +1,6 @@
 ### (Literally) Fabian Lindgren ✨
 
-C# / JavaScript
+C# / HTML
 
 Mainly working in private repos, current focusing on the visual novel engine SajberSim & the verified Discord bot [SaltBot](https://discord.bots.gg/bots/539453930313351168)
 
