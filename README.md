@@ -1,7 +1,6 @@
 ### (Literally) Fabian Lindgren ✨
 
-Full stack web & Unity
-
+NodeJS / C#
 
 
 
