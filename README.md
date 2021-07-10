@@ -1,10 +1,1 @@
-# (Literally) Fabian Lindgren ✨
-
-NodeJS / C#
-
-
-
-## Contact
-Discord: [Fabian#1540](https://discordapp.com/users/211521218896068609)
-
-Email: lindgrenfabian@gmail.com
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
